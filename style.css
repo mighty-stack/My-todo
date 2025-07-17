@@ -129,12 +129,12 @@ body.dark-theme {
     .todoContainer {
         width: 300px;
         position: relative;
-        left: 60px;
+        left: 40px;
     }
 
     body.dark-theme .todoContainer {
         width: 300px;
         position: relative;
-        left: 60px;
+        left: 40px;
     }
 }
